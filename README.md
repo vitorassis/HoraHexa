@@ -5,13 +5,13 @@
 Este repositório contém um código C# para converter e exibir a hora atual no sistema de numeração hexa (base 6). O sistema hexa oferece algumas vantagens em relação ao sistema decimal tradicional para representar o tempo, como:
 
 * **Maior simplicidade:** 12 e 60 são divisíveis por 6, facilitando as conversões.
-* **Estética:** Elimina a repetição de algarismos como 7, 8 e 9 nas dezenas dos minutos, gerando uma aparência mais harmônica.
-* **Eficiência:** Com apenas 6 dígitos (0 a 5), é possível representar qualquer valor de hora e minuto com apenas 2 dígitos, similar ao sistema decimal de 24 horas.
+* **Estética:** Elimina os algarismos 7, 8 e 9, gerando uma aparência mais harmônica.
+* **Eficiência:** Com apenas 6 algarismos (0 a 5), é possível representar qualquer valor de hora e minuto.
 
 ### Vantagens do Sistema Hexa para o Tempo
 
 * **Simplicidade:** O sistema hexa utiliza apenas 6 dígitos (0 a 5), o que torna a representação do tempo mais concisa e intuitiva, especialmente para valores de minutos.
-* **Estética:** A base 6 elimina a repetição de algarismos como 7, 8 e 9 nas dezenas dos minutos, proporcionando uma aparência mais harmônica e visualmente agradável.
+* **Estética:** A base 6 elimina os algarismos 7, 8 e 9, que aparecem nas unidades dos minutos mas nunca são usados nas dezenas, proporcionando uma aparência mais harmônica e visualmente agradável.
 
 ### Desafios e Considerações
 
