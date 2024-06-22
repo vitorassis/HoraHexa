@@ -12,7 +12,6 @@ Este repositório contém um código C# para converter e exibir a hora atual no 
 
 * **Simplicidade:** O sistema hexa utiliza apenas 6 dígitos (0 a 5), o que torna a representação do tempo mais concisa e intuitiva, especialmente para valores de minutos.
 * **Estética:** A base 6 elimina a repetição de algarismos como 7, 8 e 9 nas dezenas dos minutos, proporcionando uma aparência mais harmônica e visualmente agradável.
-* **Eficiência:** Com apenas 2 dígitos, é possível representar qualquer valor de hora e minuto, similar ao sistema decimal de 24 horas, mas com maior simplicidade para os minutos.
 
 ### Desafios e Considerações
 
